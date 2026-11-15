@@ -103,9 +103,6 @@ All documentation is submitted in PDF format and kept in the folders above.
 | Final Report | `FinalReport/` |
 | Final Presentation | `Presentation/` |
 
-## File Naming Convention
-
-All submitted files use the format `SE_CCP_GroupXX_ProjectTitle`, for example `SE_CCP_GroupXX_StudentProjectSupervisorAllocationSystem_SRS.pdf`.
 
 ## Team
 
